@@ -1,5 +1,6 @@
 # Site settings
-title: J38 Support
+title: Scott Made This&colon; App Support
+permalink: :title
 
 # Build settings
 markdown: kramdown
